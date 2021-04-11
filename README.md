@@ -5,6 +5,7 @@ Latest Version: 2021/4/12
   
 有任何疑问或新的IP/链接请在Issue提出，看到后会尽快更新  
   
+  
 中文版  
 >Step 1. [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/PDTM.mobileconfig) 下载  
 >Step 2. 打开"设置"  
@@ -13,7 +14,8 @@ Latest Version: 2021/4/12
 >Step 3. 点击“Please Don't Track Me”  
 >Step 4. 点右上角的"安装"，然后按照屏幕上的说明操作  
   
-英文版  
+  
+Eng  
 >Step 1. [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/PDTM.mobileconfig) to Download  
 >Step 2. Open "Settings"  
 >>        Open "General"  
