@@ -12,6 +12,7 @@ Latest Version: 2021/4/12
 >>打开"设置"  
 >>打开第三个大框第一行"通用"(齿轮图标)  
 >>打开最下方倒数第四行"描述文件"  
+
 >Step 3. 点击“Please Don't Track Me”  
 >Step 4. 点右上角的"安装"，然后按照屏幕上的说明操作  
   
@@ -22,5 +23,6 @@ Eng
 >>Open "Settings"  
 >>Open "General"  
 >>Open "Profile"  
+
 >Step 3. Click on "Please Don't Track Me"  
 >Step 4. Click on "Install" in the top right corner and follow the on-screen instructions  
