@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>Please Don't Track Me</string>
+    <key>PayloadDescription</key>
+    <string>Prevent you from the tracking.</string>
+    <key>PayloadOrganization</key>
+    <string>J</string>
+    <key>PayloadIdentifier</key>
+    <string>Js.5a77a89f-a34f-4bdd-870f-54ae38312eb4</string>
+    <key>PayloadUUID</key>
+    <string>be9134bf-9d07-4794-bf3b-95bbd70a5a1f</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>DNS Settings #1</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>bb285f0c-c3b4-4676-92a6-d7d62c16bb81</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>DNSSettings</key>
+        <dict>
+          <key>ServerAddresses</key>
+          <array>
+            <string>0.0.0.0</string>
+          </array>
+          <key>SupplementalMatchDomains</key>
+          <array>
+            <string>config.cmpassport.com</string>
+            <string>www.cmpassport.com</string>
+            <string>wap.cmpassport.com</string>
+            <string>onekey1.cmpassport.com</string>
+            <string>opencloud.wostore.cn</string>
+            <string>nishub1.10010.com</string>
+            <string>mdn.open.wo.cn</string>
+            <string>id.mail.wo.cn</string>
+            <string>auth.wosms.cn</string>
+            <string>id6.me</string>
+            <string>open.e.189.cn</string>
+            <string>ctaccount.21cn.com</string>
+            <string>geetest.com</string>
+            <string>114dev.com</string>
+          </array>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
