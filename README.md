@@ -2,7 +2,8 @@
 ---------------------------------------  
     Latest Version: 2021/4/12  
   
-    有任何疑问或新的IP/链接请在Issue提出，看到后会尽快更新  
+    如有疑问
+    未被过滤的地址/App 或 拒绝服务的App 请在Issue提出，看到后会尽快更新
   
 使用教程 - 中文版  
 - [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/PDTM.mobileconfig) 下载  
@@ -22,3 +23,6 @@ Eng
     - Open "Profile"  
 - Click on "Please Don't Track Me"  
 - Click on "Install" in the top right corner and follow the on-screen instructions  
+
+拒绝运行清单 - Denial List
+招才猫 - 58同城招聘商家版
