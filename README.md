@@ -2,8 +2,7 @@
 ---------------------------------------  
     Latest Version: 2021/4/12  
   
-    如有疑问
-    未被过滤的地址/App 或 拒绝服务的App 请在Issue提出，看到后会尽快更新
+    如有 未被过滤的地址/App 或 拒绝服务的App 请在Issue提出，看到后会尽快更新
   
 使用教程 - 中文版  
 - [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/PDTM.mobileconfig) 下载  
