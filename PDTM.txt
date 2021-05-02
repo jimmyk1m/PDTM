@@ -1,0 +1,23 @@
+[Adblock Plus 2.0]
+! Version: 20210502
+! Title: Please Don't Track Me
+! Last modified: 2021/05/02 14:22 +0800
+! Expires: 360 days (update frequency)
+! Homepage: https://github.com/jimmyk1m/PDTM/
+!
+! License: https://github.com/jimmyk1m/PDTM/blob/main/LICENSE
+!--------------------------General blocking filters---------------------------!
+||config.cmpassport.com^
+||www.cmpassport.com^
+||wap.cmpassport.com^
+||onekey1.cmpassport.com^
+||opencloud.wostore.cn^
+||nishub1.10010.com^
+||mdn.open.wo.cn^
+||id.mail.wo.cn^
+||auth.wosms.cn^
+||id6.me^
+||open.e.189.cn^
+||ctaccount.21cn.com^
+||geetest.com^
+||114dev.com^
