@@ -5,7 +5,7 @@
     如有 未被过滤的地址/App 或 拒绝服务的App 请在Issue提出，看到后会尽快更新
   
 使用教程 - 中文版  
-- [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/PDTM.mobileconfig) 下载  
+- [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/apple.mobileconfig) 下载  
 - 找到描述文件管理菜单  
     - 打开"设置"  
     - 打开第三个大框第一行"通用"(齿轮图标)  
@@ -15,7 +15,7 @@
   
   
 Eng  
-- [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/PDTM.mobileconfig) to Download  
+- [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/PDTM/apple.mobileconfig) to Download  
 - Find the Profile  
     - Open "Settings"  
     - Open "General"  
