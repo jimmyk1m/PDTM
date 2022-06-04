@@ -15,7 +15,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadVersion</key>
-    <integer>2</integer>
+    <integer>1</integer>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadContent</key>
@@ -32,7 +32,7 @@
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
         <key>PayloadVersion</key>
-        <integer>2</integer>
+        <integer>1</integer>
         <key>DNSSettings</key>
         <dict>
           <key>ServerAddresses</key>
