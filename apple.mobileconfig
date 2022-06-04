@@ -21,8 +21,6 @@
     <key>PayloadContent</key>
     <array>
       <dict>
-        <key>Name</key>
-        <string>TB - Main Rule</string>
         <key>PayloadDisplayName</key>
         <string>TB - Main Rule</string>
         <key>PayloadDescription</key>
