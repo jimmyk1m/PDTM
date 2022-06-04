@@ -1,6 +1,6 @@
-# PDTM - Please Don't Track Me  
+# Tracking Blocker
 ---------------------------------------  
-    Latest Version: 2021/4/12  
+    Latest Version: 2022/6/3  
   
     如有 未被过滤的地址/App 或 拒绝服务的App 请在Issue提出，看到后会尽快更新
   
