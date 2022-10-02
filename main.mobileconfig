@@ -48,11 +48,17 @@
             <string>wap.cmpassport.com</string>
             <string>onekey1.cmpassport.com</string>
             <string>onekey.cmpassport.com</string>
+            <string>smsks1.cmpassport.com</string>
+            <string>verify.cmpassport.com</string>
             <string>opencloud.wostore.cn</string>
             <string>nishub1.10010.com</string>
             <string>mdn.open.wo.cn</string>
             <string>id.mail.wo.cn</string>
+            <string>mail.wo.cn</string>
             <string>auth.wosms.cn</string>
+            <string>hmrz.wo.cn</string>
+            <string>nishub1.10010.com</string>
+            <string>nisportal.10010.com</string></string>
             <string>enrichgw.10010.com</string>
             <string>id6.me</string>
             <string>open.e.189.cn</string>
