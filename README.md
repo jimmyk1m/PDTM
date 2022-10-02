@@ -15,8 +15,9 @@
 - 点右上角的"安装"，然后按照屏幕上的说明操作  
   
   
-Eng  
-- [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/apple.mobileconfig) to Download  
+Tutorial - Eng  
+- [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/main.mobileconfig) to Download Main Rule
+- [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/doh.mobileconfig) to Download DOH Rule
 - Find the Profile  
     - Open "Settings"  
     - Open "General"  
