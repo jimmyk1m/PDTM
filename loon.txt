@@ -11,6 +11,7 @@ mdn.open.wo.cn
 id.mail.wo.cn
 mail.wo.cn
 auth.wosms.cn
+ali.wosms.cn
 hmrz.wo.cn
 nishub1.10010.com
 nisportal.10010.com
