@@ -43,7 +43,9 @@
           </array>
           <key>SupplementalMatchDomains</key>
           <array>
+            <string>nvs.im.tencent.cn</string>
             <string>config.cmpassport.com</string>
+            <string>config2.cmpassport.com</string>
             <string>www.cmpassport.com</string>
             <string>wap.cmpassport.com</string>
             <string>onekey1.cmpassport.com</string>
